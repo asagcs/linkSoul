@@ -1,0 +1,9 @@
+
+.myPage{
+	overflow: hidden;
+	height: calc(100vh - 100rpx);
+}
+.marginPage {
+	margin-top: 100rpx;
+}
+

@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/component/chat",
+    "pages/friends/personInfo",
+    "pages/friends/mark",
+    "pages/plugin/characteristicSign",
+    "pages/friends/addNewGroup",
+    "pages/friends/searchGroup",
+    "pages/friends/groupInfo",
+    "pages/login/index",
+    "pages/friends/addNewMembers",
+    "pages/component/mqtt"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "ColorUi for UniApp",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {
+    "friends": "/pages/friends/indexes",
+    "components": "/pages/component/home",
+    "plugin": "/pages/plugin/home",
+    "cu-custom": "/colorui/components/cu-custom",
+    "mqtt": "/pages/component/mqtt"
+  },
+  "sitemapLocation": "sitemap41.json"
+}

@@ -1,0 +1,13 @@
+
+.myPage{
+	overflow: hidden;
+	height: 100vh;
+}
+.scrollView{
+	padding-top: 100rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	        flex-grow: 1;
+	overflow: scroll;
+}
+

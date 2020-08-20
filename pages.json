@@ -1,0 +1,62 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {}
+		},
+		{
+			"path": "pages/component/chat",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/personInfo",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/mark",
+			"style": {}
+		},
+		{
+			"path": "pages/plugin/characteristicSign",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/addNewGroup",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/searchGroup",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/groupInfo",
+			"style": {}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {}
+		},
+		{
+			"path": "pages/friends/addNewMembers",
+			"style": {}
+		},
+		{
+			"path": "pages/component/mqtt",
+			"style": {}
+		}
+	],
+	"globalStyle": {
+		"mp-alipay": {
+			/* 支付宝小程序特有相关 */
+			"transparentTitle": "always",
+			"allowsBounceVertical": "NO"
+		},
+		"navigationBarBackgroundColor": "#0081ff",
+		"navigationBarTitleText": "ColorUi for UniApp",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white"
+	}
+	
+
+}

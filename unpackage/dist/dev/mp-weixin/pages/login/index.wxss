@@ -1,0 +1,10 @@
+.img_logo.data-v-4586967a {
+  width: 200rpx;
+  height: 200rpx;
+}
+.login.data-v-4586967a {
+  margin-top: 2%;
+  margin-left: 2%;
+  font-size: 24rpx;
+}
+
